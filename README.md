@@ -18,5 +18,5 @@ Dieses Repository enthält **keinen produktiven Code**, sondern reine Demonstrat
 - `src/` – Beispielquellmaterial (codeneutral)
 - `test.ps1` – generisches Testszenario für CI
 - `.github/workflows/*` – CI, Build und Release Pipelines
-- `docs/` – Trainer Notes und weiterführende Erklärungen
+- `docs/` – weiterführende Erklärungen
 
