@@ -1,2 +1,1 @@
-example content
-This file represents language-neutral source files.
+Demo Content 3
