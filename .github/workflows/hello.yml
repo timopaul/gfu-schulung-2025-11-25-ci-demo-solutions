@@ -11,4 +11,4 @@ jobs:
               uses: actions/checkout@v4
 
             - name: Print Hello Message
-              run: echo "Willkomen zum Kurs 'GitHub für Entwickler' bei der GFU!"
+              run: echo "Willkommen zum Kurs 'GitHub für Entwickler' bei der GFU!"
